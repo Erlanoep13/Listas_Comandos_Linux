@@ -66,7 +66,6 @@ ls -R /etc/network
 ```bash
 ls -l ~
 ```
-> **Significado das colunas:** Permissões de acesso (leitura, escrita, execução), número de links, usuário dono do arquivo, grupo dono do arquivo, tamanho em bytes, data/hora da última modificação e o nome do arquivo/diretório.
 
 **vii) Listagem longa de "/etc", ordenada alfabeticamente.**
 ```bash
